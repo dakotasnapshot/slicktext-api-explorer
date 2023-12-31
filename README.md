@@ -1,4 +1,4 @@
-SlickText API Explorer is a WordPress plugin that enables you to explore and interact with the SlickText API directly from your WordPress dashboard. It provides a user-friendly interface to save and manage your SlickText API keys, retrieve all textwords, and view the API response.
+SlickText API Explorer is a WordPress plugin that enables you to explore and interact with the SlickText API directly from your WordPress dashboard. It provides a user-friendly interface to save and manage your SlickText API keys, retrieve all textwords, and view the API response. Works with the notification plugin https://github.com/dakotasnapshot/slicktext-post-notification
 
 
 === SlickText API Explorer ===
